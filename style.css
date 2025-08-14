@@ -1,0 +1,79 @@
+.bannar {
+    background-image: url(Images/Bannar.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Bebas Neue;
+    padding: 50px 200px 50px 100px;
+
+    color: white;
+
+}
+
+.navbar {
+    font-family: Bebas Neue;
+}
+
+p {
+    font-family: Montserrat;
+}
+
+h {
+    font-family: Bebas Neue;
+}
+
+.back-year {
+    position: relative;
+
+}
+
+.year {
+    position: absolute;
+    background-color: white;
+    padding: 10px;
+    bottom: -15px;
+    left: 60px;
+    z-index: 1;
+
+
+
+
+    /* margin-top: -50px;
+    color: white;
+    align-items: center;
+  margin-left: 20px;
+   width: 80%;
+   padding: 15px; */
+
+
+}
+
+.bttn {
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.dash {
+    border: 1px solid black;
+    font-size: 20px;
+    width: 50%;
+
+}
+
+.menu {
+    border: 3px solid black;
+}
+
+.img-fluid {
+    border: 5px solid white;
+    padding: 15px;
+
+}
+
+.box-card {
+    border: 3px solid black;
+    margin-top: 15px;
+    padding: 15px;
+    text-align: center;
+}
